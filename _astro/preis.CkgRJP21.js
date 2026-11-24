@@ -1,0 +1,1 @@
+function n(e){return Number.isInteger(e)?`${e} €`:`${e.toFixed(2).replace(".",",")} €`}const i=[1,2,3,5,10];function a(e,s){let r=0;for(let t=1;t<=s;t++){let o=0;i.forEach((u,f)=>{t>=u&&(o=f)}),r+=e[o]}return r}const c="tk:prefill";export{c as P,n as e,a as t};
