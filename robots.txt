@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 # Domain identisch zu astro.config.mjs (site) halten.
-Sitemap: https://www.tischkraft.de/sitemap-index.xml
+Sitemap: https://tischkraft.de/sitemap-index.xml

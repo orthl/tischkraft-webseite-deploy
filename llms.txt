@@ -33,14 +33,14 @@ Lieferung und Abholung 49 € bis 25 km, 79 € bis 50 km, 129 € bis 100 km, 1
 Die Bilder auf der Website sind KI-generiert und als solche gekennzeichnet.
 
 ## Seiten
-- [Startseite mit Preisen und Anfrage](https://www.tischkraft.de/)
-- [Vermietung](https://www.tischkraft.de/mieten/)
-- [Eine Hochzeitstafel aus Massivholz mieten](https://www.tischkraft.de/hochzeit/)
-- [Garnituren für Firmenfeiern und Betriebsfeste mieten](https://www.tischkraft.de/firmenfeier/)
-- [Garnituren für Vereinsfeste und Weinfeste mieten](https://www.tischkraft.de/vereinsfest/)
-- [Tische und Bänke mieten im Saarland](https://www.tischkraft.de/mieten/saarland/)
-- [Tische und Bänke mieten in Trier und an der Mosel](https://www.tischkraft.de/mieten/trier/)
-- [Tische und Bänke mieten in Luxemburg](https://www.tischkraft.de/mieten/luxemburg/)
+- [Startseite mit Preisen und Anfrage](https://tischkraft.de/)
+- [Vermietung](https://tischkraft.de/mieten/)
+- [Eine Hochzeitstafel aus Massivholz mieten](https://tischkraft.de/hochzeit/)
+- [Garnituren für Firmenfeiern und Betriebsfeste mieten](https://tischkraft.de/firmenfeier/)
+- [Garnituren für Vereinsfeste und Weinfeste mieten](https://tischkraft.de/vereinsfest/)
+- [Tische und Bänke mieten im Saarland](https://tischkraft.de/mieten/saarland/)
+- [Tische und Bänke mieten in Trier und an der Mosel](https://tischkraft.de/mieten/trier/)
+- [Tische und Bänke mieten in Luxemburg](https://tischkraft.de/mieten/luxemburg/)
 
 ## Kontakt
 Tischkraft, Normannenstraße 6, 66706 Perl-Besch
