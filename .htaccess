@@ -1,11 +1,11 @@
 # tischkraft.de auf Plesk (Apache). Stand 2026-11-24.
 # Eine Adresse: https://www.tischkraft.de (Canonical, Sitemap, CORS des Buchungstools).
-# Achtung: In Plesk die bevorzugte Domain auf "www.tischkraft.de" stellen, sonst
-# leitet Plesk selbst auf die Adresse ohne www um und es entsteht eine Schleife.
+# Ziel: bevorzugte Domain in Plesk = www.tischkraft.de.
 RewriteEngine On
-RewriteCond %{HTTPS} off [OR]
-RewriteCond %{HTTP_HOST} !^www\. [NC]
-RewriteRule ^ https://www.tischkraft.de%{REQUEST_URI} [L,R=301]
+# Die www/ohne-www-Weiterleitung macht Plesk (Hosting-Einstellungen → bevorzugte
+# Domain). Hier nur HTTPS erzwingen, sonst entsteht eine Weiterleitungsschleife.
+RewriteCond %{HTTPS} off
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 
 # Alte WordPress-/WooCommerce-Adressen
 RedirectMatch 301 ^/firmenkunden/?$ /firmenfeier/
